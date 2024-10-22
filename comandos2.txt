@@ -1,0 +1,5 @@
+TRÍADE PARA SEGUIR:
+
+git add .
+git commit -m "descrição"
+git push
